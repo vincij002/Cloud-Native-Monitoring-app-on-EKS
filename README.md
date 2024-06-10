@@ -22,7 +22,7 @@ This project involves creating a monitoring application in Python using Flask an
 
 2. **Running the Application Locally**
 
-   - Ensure Python dependencies are installed (`pip install -r requirements.txt`).
+   - Ensure Python dependencies are installed (`pip3 install -r requirements.txt`).
    - Run the application locally on port 5000: `python app.py`.
 
 3. **Containerizing the Application using Docker**
